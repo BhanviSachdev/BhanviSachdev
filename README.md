@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhanvi Sachdev</h1>
 <h3 align="center">I'm an undergraduate pursuing degree in computer science and engineering.</h3>
 
-- 🌱 I’m currently learning **about various languages used in**
+- 🌱 I’m currently learning **about various languages used in web development**
 
 - 📫 How to reach me **sachdevbhanvi@gmail.com**
 
