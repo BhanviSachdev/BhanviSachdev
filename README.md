@@ -1,6 +1,5 @@
 -  Hi, I’m BhanviSachdev
--  I’m currently learning javascript and django
--
+-  I’m currently learning javascript and djano
 
 <!---
 BhanviSachdev/BhanviSachdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
