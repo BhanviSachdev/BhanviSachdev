@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bhanvi Sachdev</h1>
 <h3 align="center">I'm an undergraduate pursuing degree in computer science and engineering.</h3>
 
-- 🌱 I’m currently learning **about various languages used in web development**
+- 🌱 I’m currently learning **about various languages used in**
 
 - 📫 How to reach me **sachdevbhanvi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/bhanvi sachdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhanvi sachdev" height="30" width="40" /></a>
 <a href="https://instagram.com/sachdev_bhanvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sachdev_bhanvi" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/bhanvi_13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bhanvi_13" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bsachdev_be19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bsachdev_be19" height="30" width="40" /></a>
